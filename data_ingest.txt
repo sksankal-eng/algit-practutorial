@@ -13,6 +13,7 @@ I have added data by using feature branch
 <<<<<<< HEAD
 =======
 I have added data by using feature branch
+I have added changes by feature branch 1
 >>>>>>> feature_branch_1
 =======
 >>>>>>> parent of 5f95dad (merge commiting)

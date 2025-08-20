@@ -23,4 +23,9 @@ This is bug fix by bugfix1.
 This is data ing by bug fix 1
 
 adding data by master
+<<<<<<< HEAD
 master rebase
+=======
+data added by rebase branch
+data added by master branch
+>>>>>>> 9a6e8b4 (commiting on master)

@@ -39,3 +39,8 @@ adding data one more time.
 adding data one more time
 change done by rebase add
 >>>>>>> da3fcf7 (git cherry-pick 1)
+
+adding data one more time.
+adding data one more time
+change done by rebase add.
+data added one more time rebase.

@@ -17,3 +17,5 @@ I have added data by using feature branch
 =======
 >>>>>>> parent of 5f95dad (merge commiting)
 >>>>>>> feature_branch_2
+change done by master conflict learning
+

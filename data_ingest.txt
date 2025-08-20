@@ -1,10 +1,19 @@
 This is data ingestion file.
 <<<<<<< HEAD
 <<<<<<< HEAD
+=======
+
+=======
+>>>>>>> feature_branch_2
+<<<<<<< HEAD
 This is data added by master branch.
 =======
 I have added data by using feature branch
 >>>>>>> feature_branch_1
+<<<<<<< HEAD
 =======
 I have added data by using feature branch
 >>>>>>> feature_branch_1
+=======
+>>>>>>> parent of 5f95dad (merge commiting)
+>>>>>>> feature_branch_2

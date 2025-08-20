@@ -25,6 +25,10 @@ This is data ing by bug fix 1
 adding data by master
 master rebase
 adding data one more time.
+<<<<<<< HEAD
 adding data one more time
 add new branch createrebase1.
 adding one file by master.
+=======
+adding data one more time
+>>>>>>> c988085 (merge before commit)

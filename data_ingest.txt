@@ -32,3 +32,6 @@ adding one file by master.
 =======
 adding data one more time
 >>>>>>> c988085 (merge before commit)
+
+adding data one more time.
+adding data one more time

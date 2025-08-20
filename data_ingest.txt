@@ -19,4 +19,7 @@ I have added changes by feature branch 1
 >>>>>>> parent of 5f95dad (merge commiting)
 >>>>>>> feature_branch_2
 change done by master conflict learning
+This is bug fix by bugfix1.
+This is data ing by bug fix 1
+
 adding data by master

@@ -45,3 +45,4 @@ adding data one more time
 change done by rebase add.
 data added one more time rebase.
 add 1
+i have fixed the bug after staching data.
